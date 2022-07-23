@@ -1,0 +1,61 @@
+{
+    "$schema": "../node_modules/@tauri-apps/cli/schema.json",
+    "build": {
+        "beforeBuildCommand": "",
+        "beforeDevCommand": "",
+        "devPath": "http://localhost:8000",
+        "distDir": "../dist"
+    },
+    "package": {
+        "productName": "Scan",
+        "version": "../package.json"
+    },
+    "tauri": {
+        "allowlist": {
+            "all": false
+        },
+        "bundle": {
+            "active": true,
+            "category": "DeveloperTool",
+            "copyright": "",
+            "deb": {
+                "depends": []
+            },
+            "externalBin": [],
+            "icon": ["icons/icon.ico"],
+            "identifier": "Scan",
+            "longDescription": "",
+            "macOS": {
+                "entitlements": null,
+                "exceptionDomain": "",
+                "frameworks": [],
+                "providerShortName": null,
+                "signingIdentity": null
+            },
+            "resources": [],
+            "shortDescription": "",
+            "targets": "all",
+            "windows": {
+                "certificateThumbprint": null,
+                "digestAlgorithm": "sha256",
+                "timestampUrl": ""
+            }
+        },
+        "security": {
+            "csp": null
+        },
+        "updater": {
+            "active": false
+        },
+        "windows": [
+            {
+                "fullscreen": false,
+                "height": 600,
+                "resizable": true,
+                "title": "Scan",
+                "width": 800,
+                "center": true
+            }
+        ]
+    }
+}
