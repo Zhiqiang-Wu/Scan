@@ -10,6 +10,8 @@
 
 ![](https://img.shields.io/github/package-json/v/Zhiqiang-Wu/Scan) ![](https://img.shields.io/github/downloads/Zhiqiang-Wu/Scan/total) ![](https://img.shields.io/github/workflow/status/Zhiqiang-Wu/Scan/Publish) ![](https://img.shields.io/github/license/Zhiqiang-Wu/Scan)
 
+QR code scanning with camera.
+
 ## Language
 
 [![rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) [![typescript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)

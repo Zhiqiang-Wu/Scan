@@ -7,7 +7,7 @@
     "license": "MIT",
     "author": {
         "name": "Wuzhiqiang",
-        "url": "https://github.com/Zhiqiang-Wu/Scan"
+        "url": "https://github.com/Zhiqiang-Wu"
     },
     "scripts": {
         "format": "prettier --cache --write .",
