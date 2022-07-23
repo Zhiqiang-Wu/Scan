@@ -10,6 +10,8 @@
 
 ![](https://img.shields.io/github/package-json/v/Zhiqiang-Wu/Scan) ![](https://img.shields.io/github/downloads/Zhiqiang-Wu/Scan/total) ![](https://img.shields.io/github/workflow/status/Zhiqiang-Wu/Scan/Publish) ![](https://img.shields.io/github/license/Zhiqiang-Wu/Scan)
 
+[![OSCS Status](https://www.oscs1024.com/platform/badge/Zhiqiang-Wu/Scan.svg?size=small)](https://www.oscs1024.com/project/Zhiqiang-Wu/Scan?ref=badge_small)
+
 QR code scanning with camera.
 
 ## Language
