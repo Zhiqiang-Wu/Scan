@@ -14,6 +14,10 @@
 
 QR code scanning with camera.
 
+## Screenshot
+
+![scan](./resources/screenshot1.png)
+
 ## Language
 
 [![rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) [![typescript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
