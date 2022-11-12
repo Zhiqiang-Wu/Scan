@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "private": true,
     "repository": {
         "url": "https://github.com/Zhiqiang-Wu/Scan"
@@ -22,7 +22,7 @@
         "@ant-design/icons": "^4.7.0",
         "@ant-design/pro-components": "^1.1.3",
         "@tauri-apps/api": "^1.1.0",
-        "@umijs/max": "^4.0.21",
+        "@umijs/max": "^4.0.30",
         "@zxing/library": "^0.19.1",
         "ahooks": "^3.7.1",
         "antd": "^4.23.2",
@@ -31,7 +31,7 @@
         "reselect": "^4.1.6"
     },
     "devDependencies": {
-        "@tauri-apps/cli": "^1.1.1",
+        "@tauri-apps/cli": "^1.2.0",
         "@types/react": "^18.0.0",
         "@types/react-dom": "^18.0.0",
         "husky": "^8.0.1",
